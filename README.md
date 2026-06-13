@@ -1,14 +1,13 @@
-<h1 align="center">Hola 👋 Soy Evelin / unsimpleDev ✨</h1>
+<h1 align="center">Hola 👋 Soy Evelin / IngDev 👩🏻‍💻✨</h1>
 
 <h2>Sobre mi 😃</h2>
 <p align="left">
 🎓 Estudiante de <b>Ingeniería en Sistemas Computacionales</b>, apasionada por convertir ideas en aplicaciones móviles funcionales y elegantes.
 <br><br>
-🚀 Mi enfoque principal es el desarrollo con .NET MAUI. Me encanta aprender nuevas herramientas, explorar arquitecturas de software y optimizar cada línea de código.
+🏆 Mi meta actual
+Aprender nuevas arquitecturas de software y seguir contribuyendo a proyectos Open Source que marquen la diferencia.
 <br><br>
-💡 Creo firmemente que la mejor forma de aprender es construyendo, por eso siempre estoy trabajando en un nuevo proyecto o mejorando los que ya tengo.
-<br><br>
-📫 ¿Tienes alguna duda o quieres colaborar? Escríbeme a: <b>gisselevelin23@gmail.com</b>
+📫 Contacto: <b>gisselevelin23@gmail.com</b>
 </p>
 <br>
 
