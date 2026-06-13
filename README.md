@@ -4,8 +4,7 @@
 <p align="left">
 🎓 Estudiante de <b>Ingeniería en Sistemas Computacionales</b>, apasionada por convertir ideas en aplicaciones móviles funcionales y elegantes.
 <br><br>
-🏆 Mi meta actual
-Aprender nuevas arquitecturas de software y seguir contribuyendo a proyectos Open Source que marquen la diferencia.
+💡 Creo firmemente que la mejor forma de aprender es construyendo, por eso siempre estoy trabajando en un nuevo proyecto o mejorando los que ya tengo.
 <br><br>
 📫 Contacto: <b>gisselevelin23@gmail.com</b>
 </p>
