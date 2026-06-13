@@ -39,8 +39,11 @@
 </table>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 <div align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=gisselevelin23-blip&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</a>
 </div>
